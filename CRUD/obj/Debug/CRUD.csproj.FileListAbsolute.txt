@@ -1,0 +1,11 @@
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\yohan\Documents\C#\project\CRUD\CRUD\obj\Debug\CRUD.exe.config
