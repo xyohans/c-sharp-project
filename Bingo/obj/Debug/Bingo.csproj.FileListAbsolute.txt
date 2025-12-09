@@ -1,0 +1,11 @@
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\yohan\Documents\C#\project\Bingo\Bingo\obj\Debug\Bingo.exe.config
