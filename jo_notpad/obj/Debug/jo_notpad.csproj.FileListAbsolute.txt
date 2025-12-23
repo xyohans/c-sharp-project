@@ -1,0 +1,11 @@
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\bin\Debug\jo_notpad.exe.config
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\bin\Debug\jo_notpad.exe
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\bin\Debug\jo_notpad.pdb
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.csproj.AssemblyReference.cache
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.Form1.resources
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.Properties.Resources.resources
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.csproj.GenerateResource.cache
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.exe
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.pdb
+C:\Users\yohan\Documents\C#\project\jo_notpad\jo_notpad\obj\Debug\jo_notpad.exe.config
